@@ -1,0 +1,14 @@
+{
+  "name": "premium-gradient-loaders",
+  "version": "1.0.0",
+  "description": "Premium gradient loaders and toasts for React applications - Pure CSS + JavaScript",
+  "main": "index.js",
+  "keywords": ["react", "loader", "toast", "gradient", "animation", "ui", "components"],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "files": ["components/", "styles/", "examples/", "README.md"]
+}
